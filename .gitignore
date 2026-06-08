@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+models/
+bin/
+temp_clone/
+*.log
